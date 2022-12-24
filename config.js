@@ -33,8 +33,8 @@ var config = {
     imgs: {
         "送给我":"./imgs/songxinxin.jpg",
         "心爱的猪猪":"./imgs/zhuzhu.jpg",
-        //"今天是你的生日":"./imgs/songxinxin.jpg",
-        //"也是我们在一起的":"./imgs/songxinxin.jpg",
+        "今天是你的生日":"./imgs/birthday.jpg",
+        "也是我们在一起的":"./imgs/first.jpg",
         "第415天！":"./imgs/sha1.jpg",
         //"这段时间来，我见过你":"./imgs/songxinxin.jpg",
         "扁嘴的样子":"./imgs/bianzui.jpg",
